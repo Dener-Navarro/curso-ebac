@@ -1,0 +1,23 @@
+
+*{
+   
+    box-sizing-borderbox;
+    margin: 0;
+    padding: 0;
+    }
+
+h1 {
+    color:blue
+}
+
+#sports h2{
+    color:brown;
+}
+
+#economy h2{
+    color: blueviolet;
+}
+
+.creation-date{
+    color:deeppink;
+}
